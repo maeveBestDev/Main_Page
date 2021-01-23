@@ -22,8 +22,8 @@
       <p> animes <input type="checkbox"/></p>
       <p> irl <input type="checkbox"/></p>
     <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif">
-    <a href="https://maevebestdev.github.io/NSI-aboutus/">About us</a>
+    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
-    <a href="https://maevebestdev.github.io/NSI-contactus/">Contact us</a>
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
     </body>
 </html>
