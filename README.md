@@ -6,7 +6,7 @@
 
   <body>
     <h1>Bienvenue sur GIF Mignon !</h1>
-        <p>Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
+    <p><strong>Ici, vous pouvez télécharger plein de GIF en tout genre.</strong></p>
     <p></p>
     <form role="search">
   <div>
