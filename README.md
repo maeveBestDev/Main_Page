@@ -26,7 +26,7 @@
 <a href="pixelart">pixel art</a>
 <p></p>
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
-<a href="anime">anime</a>
+<a href="https://maevebestdev.github.io/Anime/">anime</a>
 <p></p>
 <img class="project-pic" src="https://static-cse.canva.com/blob/186160/giphy-3.gif" style="width: 250px;" />
 <a href="autre">autre</a>
