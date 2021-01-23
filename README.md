@@ -7,7 +7,14 @@
 
   <body>
         <h1>GIF Mignon</h1>
-    <p>Rechercher un GIF : <input type="text"/></p>
+    <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Rechercher sur le site…"
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Rechercher</button>
+  </div>
+</form>
         <p>Bienvenue sur GIF Mignon ! Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
     <p></p>
     <p>tag :</p>
