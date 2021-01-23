@@ -6,7 +6,9 @@
     </head>
 
   <body>
-        <h1>GIF Mignon</h1>
+    <h1>GIF Mignon</h1>
+        <p>Bienvenue sur GIF Mignon ! Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
+    <p></p>
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
@@ -15,8 +17,6 @@
     <button>Rechercher</button>
   </div>
 </form>
-        <p>Bienvenue sur GIF Mignon ! Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
-    <p></p>
     <p>tag :</p>
       <p> mignon <input type="checkbox"/></p>
       <p> jeux-videos <input type="checkbox"/></p>
