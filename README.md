@@ -21,9 +21,16 @@
       <p> jeux-videos <input type="checkbox"/></p>
       <p> animes <input type="checkbox"/></p>
       <p> irl <input type="checkbox"/></p>
-    <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
-    <img class="project-pic" src="https://f.hellowork.com/blogdumoderateur/2013/02/gif-anime.gif" style="width: 250px;" />
-    <img class="project-pic" src="https://static-cse.canva.com/blob/186160/giphy-3.gif" style="width: 250px;" />
+<p></p>
+<img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
+<a href="pixelart">pixel art</a>
+<p></p>
+<img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
+<a href="anime">anime</a>
+<p></p>
+<img class="project-pic" src="https://static-cse.canva.com/blob/186160/giphy-3.gif" style="width: 250px;" />
+<a href="autre">autre</a>
+<p></p>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
     <p></p>
