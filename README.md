@@ -28,8 +28,8 @@
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
 <a href="https://maevebestdev.github.io/Anime/">anime</a>
 <p></p>
-<img class="project-pic" src="https://static-cse.canva.com/blob/186160/giphy-3.gif" style="width: 250px;" />
-<a href="autre">autre</a>
+<img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 250px;" />
+<a href="https://maevebestdev.github.io/Jeux_Videos/">Jeux videos</a>
 <p></p>
     <p> </p>
     <a href="https://maevebestdev.github.io/About_Us/">About us</a>
