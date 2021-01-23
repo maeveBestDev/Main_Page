@@ -5,8 +5,8 @@
     </head>
 
   <body>
-    <h1>GIF Mignon</h1>
-        <p>Bienvenue sur GIF Mignon ! Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
+    <h1>Bienvenue sur GIF Mignon !</h1>
+        <p>Ici, vous pouvez télécharger plein de GIF en tout genre.</p>
     <p></p>
     <form role="search">
   <div>
