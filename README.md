@@ -2,6 +2,7 @@
     <head>
         <meta charset="utf-8">
         <title>GifMignon</title>
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.ecoles-libres.fr/wp-content/uploads/2017/09/panda-roux-fond-transparent.png">
     </head>
 
   <body>
