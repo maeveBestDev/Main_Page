@@ -2,7 +2,6 @@
     <head>
         <meta charset="utf-8">
         <title>GifMignon</title>
-        <link> rel="shortcut icon" type="image/png" href="https://thypix.com/wp-content/uploads/2020/05/fox-84-700x700.png"/>
     </head>
 
   <body>
