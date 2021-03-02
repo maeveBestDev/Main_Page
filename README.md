@@ -5,27 +5,7 @@
     </head>
 
   <body>
-      <main class="container m-auto max-w-2xl mt-4 p-2 sm:px-8">
-      <input
-        type="search"
-        id="search"
-        placeholder="Filter users..."
-        class="appearance-none border border-gray-400 border-b block pl-8 pr-6 py-2 w-full bg-white text-sm placeholder-gray-400 rounded-lg text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none"
-      />
-      <div class="my-4 shadow rounded-lg overflow-hidden">
-        <table class="items min-w-full leading-normal"></table>
-      </div>
-    </main>
-    <script src="app.js"></script>
-    <h1>Bienvenue sur GIF Mignon !</h1>
-    <p><strong>Ici, vous pouvez télécharger plein de GIF en tout genre.</strong></p>
-    <p></p>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
+
   </div>
 </form>
     <p>tag :</p>
