@@ -24,7 +24,7 @@
 <p></p>
 <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
 <a href="https://maevebestdev.github.io/PixelArt/">pixel art</a>
-<p></p>
+
 <img class="project-pic" src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" style="width: 250px;" />
 <a href="https://maevebestdev.github.io/Anime/">anime</a>
 
