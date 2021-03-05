@@ -1,4 +1,4 @@
 function myFunction() {
-	alert("Le JavaScript fonctionne !")
+	document.location.href="https://pixees.fr/informatiquelycee/n_site/nsi_prem_html_css.html"; 
 }
 	
