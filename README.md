@@ -8,11 +8,7 @@
     <form>
    <input type="search" onsearch="myFunction()">
 		</form>
-    <p>tag :</p>
-      <p> mignon <input type="checkbox"/></p>
-      <p> jeux-videos <input type="checkbox"/></p>
-      <p> animes <input type="checkbox"/></p>
-      <p> irl <input type="checkbox"/></p>
+
 <p></p>
 <img class="project-pic" src="https://img.cloudygif.com/full/f254e23e6c781897.gif" style="width: 250px;" />
 <a href="https://maevebestdev.github.io/PixelArt/">pixel art</a>
