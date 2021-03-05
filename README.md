@@ -5,8 +5,9 @@
     </head>
 
   <body>
-
-</form>
+    <form>
+   <input type="search" onsearch="myFunction()">
+		</form>
     <p>tag :</p>
       <p> mignon <input type="checkbox"/></p>
       <p> jeux-videos <input type="checkbox"/></p>
@@ -28,5 +29,6 @@
     <a href="https://maevebestdev.github.io/Help/">Help</a>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
     </body>
+      <script src="script.js"></script>
 </html>
 <p></p>
