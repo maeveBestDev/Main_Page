@@ -6,7 +6,7 @@
 
   <body>
     <form>
-   <input type="search" onsearch="myFunction()">
+   <input type="search" onsearch="RedirectionJavascript()">
 		</form>
 
 <p></p>
