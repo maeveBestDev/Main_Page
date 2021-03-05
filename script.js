@@ -2,13 +2,13 @@
 function controle(){
 var saisie =document.getElementById("input").value;
 if (saisie == "anime"){
-  document.location.href="https://pixees.fr/informatiquelycee/n_site/nsi_prem_html_css.html";
+  document.location.href="https://maevebestdev.github.io/Anime/";
   }
-if (saisie == "jeux"){
-    document.location.href="https://www.w3schools.com/tags/ev_onsearch.asp";
+if (saisie == "jeux vidéos"){
+    document.location.href="https://maevebestdev.github.io/Jeux_Videos/";
   }
-if(saisie == "marrant"){
-  document.location.href="http://memo-web.fr/categorie-javascript-120/";
+if(saisie == "pixel art"){
+  document.location.href="https://maevebestdev.github.io/PixelArt/";
 }
 
 }
