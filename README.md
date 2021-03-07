@@ -2,8 +2,7 @@
 <body>
 
 <form>
-<input type="search" id="input" name="input" value="">
-<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+<input type="search" id="input">
 </form>
 
 </body>
