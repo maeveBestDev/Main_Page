@@ -7,7 +7,7 @@
 	<body>
 <form>
 <input type="text" id="input" name="input" value="">
-<input type="button" id="bouton" value="Contrôler" onclick="controle()">
+<input type="button" id="bouton" value="Contrôler" onsearch="controle()">
 </form>
 	</body>
   <script src="script.js"></script>
