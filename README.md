@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
@@ -6,8 +5,8 @@
 	</head>
 	<body>
 <form>
-<input type="text" id="input" name="input" value="">
-<input type="button" id="bouton" value="Contrôler" onsearch="controle()">
+<input type="text" id="input" name="input" value="rechercher..." onsearch="controle()">
+<input type="button" id="bouton" value="Contrôler" onclick="controle()">
 </form>
 	</body>
   <script src="script.js"></script>
