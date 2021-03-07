@@ -1,7 +1,7 @@
 
 function controle(){
 var saisie =document.getElementById("input").value;
-if (saisie == "anime"){
+if (saisie == "anime" || "animé"){
   document.location.href="https://maevebestdev.github.io/Anime/";
   }
 if (saisie == "jeux vidéos"){
