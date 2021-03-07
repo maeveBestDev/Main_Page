@@ -1,8 +1,6 @@
-
-h1{
-	text-align: center;
-}
-.rouge {
-	color:red;
-	font-size:20px;
+p
+{
+	font-family: Verdana;
+	font-style: italic;
+	color: green;
 }
