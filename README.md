@@ -5,7 +5,7 @@
 	</head>
 	<body>
 <form>
-<input type="text" id="input" name="input" value="rechercher..." onsearch="controle()">
+<input type="text" id="input" name="input" value="" onsearch="controle()">
 <input type="button" id="bouton" value="Contrôler" onclick="controle()">
 </form>
 	</body>
