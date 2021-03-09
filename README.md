@@ -1,7 +1,11 @@
 <html>
     <head> 
-       <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/p2Py6H9WxxxjuUxtelVodHTs1c8b_lOJ1pIQTIq07s4lLAzo-icJBoFF_-yLO6e4_p5UbG4k4KHaaU0I1VbId5CsayqisW6ftjvaI42sMk0EYi5p4SQ">
-        <link rel="stylesheet" href="CSS/style.css">
+       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
     </head>
 <body>
 <form 
