@@ -10,16 +10,10 @@
 <input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
-    <p>tag :</p>
-      <p> mignon <input type="checkbox"/></p>
-      <p> jeux-videos <input type="checkbox"/></p>
-      <p> animes <input type="checkbox"/></p>
-      <p> Chat <input type="checkbox"/></p>
-      <p> pixel art <input type="checkbox"/></p>
-      <p> Marrant <input type="checkbox"/></p>
+ 
 <p></p>
 
-<a href="https://nsi-team.github.io/Anime/">
+<a href="https://maevebestdev.github.io/Anime/">
 <img src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" alt="perdu.cm" title="anime" style="width: 250px;" /> 
 </a>
 
