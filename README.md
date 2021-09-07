@@ -14,8 +14,8 @@
 
 <a href="https://maevebestdev.github.io/Anime/">
 <img src="https://media.discordapp.net/attachments/884718653348667412/884718933427519488/image_warhammer__mes_jeux__site_web.jpg?width=783&height=427" alt="perdu.cm" title="Mes jeux" style="width: 250px;" /> 
+    <p>Mes jeux</p>
 </a>
-      <p>Mes jeux</p>
 
       <a href="https://maevebestdev.github.io/Ani">
 <img src="https://media.discordapp.net/attachments/435711807093473280/656580549384863754/600918.png?width=759&height=427" alt="perdu.cm" title="Mes bots" style="width: 250px;" /> 
