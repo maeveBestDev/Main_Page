@@ -13,7 +13,7 @@
 <p></p>
 
 <a href="https://maevebestdev.github.io/Anime/">
-<img src="https://media.discordapp.net/attachments/884718653348667412/884805265415872563/image_warhammer__mes_jeux__site_web.jpg?width=783&height=427" alt="perdu.cm" title="Mes jeux" style="width: 250px;" /> 
+<img src="https://media.discordapp.net/attachments/884718653348667412/884808976217292850/image_warhammer__mes_jeux__site_web2.jpg?width=783&height=427" alt="perdu.cm" title="Mes jeux" style="width: 250px;" /> 
     <p>Mes jeux</p>
 </a>
 
@@ -22,7 +22,7 @@
           <p>Mes bots</p>
           
       <a href="https://maevebestdev.github.io/Ani">
-<img src="https://media.discordapp.net/attachments/884718653348667412/884805285808586792/image_site_mes_site.png?width=759&height=427" alt="perdu.cm" title="Mes bots" style="width: 250px;" /> 
+<img src="https://media.discordapp.net/attachments/884718653348667412/884808994261192714/image_site_mes_site_1.png?width=759&height=427" alt="perdu.cm" title="Mes bots" style="width: 250px;" /> 
           <p>Mes sites web</p>
 </a>
       <p></p>
