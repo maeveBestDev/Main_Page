@@ -36,16 +36,3 @@
       <script src="script.js"></script>
 <script src="script.js"></script>
 <p></p>
-body {
-  background-color: black;
-}
-h1
-{
-  color: green;
-  font-family: hp Simplified;
-}
-p
-{
-	color: white;
-  font-family: hp Simplified;
-}
