@@ -13,7 +13,7 @@
 <p></p>
 
 <a href="https://maevebestdev.github.io/Anime/">
-<img src="https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif" alt="perdu.cm" title="Mes jeux" style="width: 250px;" /> 
+<img src="https://media.discordapp.net/attachments/884718653348667412/884718933427519488/image_warhammer__mes_jeux__site_web.jpg?width=783&height=427" alt="perdu.cm" title="Mes jeux" style="width: 250px;" /> 
 </a>
       <p>Mes jeux</p>
 
