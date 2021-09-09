@@ -13,6 +13,10 @@ p
   text-align: center;
   font-family: Simplified;
 }
+a
+{
+  text-align: center;
+}
 
 IMG.displayed {
     display: block;
