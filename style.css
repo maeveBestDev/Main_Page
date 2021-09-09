@@ -5,12 +5,11 @@ h1
 {
   color: pink;
   font-family: Simplified;
-  opacity: 0.4;
 }
 p
 {
-	color: white;
+  color: white;
+  text-align: center
   font-family: Simplified;
-	opacity: 0;
 }
 
