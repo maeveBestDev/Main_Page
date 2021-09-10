@@ -1,6 +1,6 @@
 <html lang="fr">
     <head> 
-        <title>GifMignon/Maeve's site UwU</title>
+        <title>Maeve's site UwU/</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta name="google-site-verification" content="kLK5fynJLaBXuMMI0qK5ex5cUOE6Eu-CKT7gdPe3nns" />
     <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/p2Py6H9WxxxjuUxtelVodHTs1c8b_lOJ1pIQTIq07s4lLAzo-icJBoFF_-yLO6e4_p5UbG4k4KHaaU0I1VbId5CsayqisW6ftjvaI42sMk0EYi5p4SQ">
