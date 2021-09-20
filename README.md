@@ -3,7 +3,7 @@
         <title>Maeve's site UwU/</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta name="google-site-verification" content="kLK5fynJLaBXuMMI0qK5ex5cUOE6Eu-CKT7gdPe3nns" />
-    <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889470963513700362/manette.png?width=427&height=427">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889477592544071710/braquette.png?width=427&height=427">
     </head>
   <body>
     <h1>Bienvenue !</h1>
