@@ -36,7 +36,6 @@
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
       <p></p>
           
-          <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
     
       <script src="script.js"></script>
 <script src="script.js"></script>
