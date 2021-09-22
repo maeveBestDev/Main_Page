@@ -35,6 +35,12 @@
 <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266366744088586/siteImageSite.png?width=759&height=427" alt="perdu.cm" id="imgg" title="My websites" style="width: 250px;" /> 
           <p>My websites</p>
 </a>
+          
+      <a href="https://maevebestdev.github.io/tradeOffer/">
+<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" alt="perdu.cm" id="imgg" title="Need something ?" style="width: 250px;" /> 
+          <p>Need something ?</p>
+</a>
+          
       <p></p>
     <a href="https://maevebestdev.github.io/About_Us/">About me       </a>
           <a>      </a>
