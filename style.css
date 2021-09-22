@@ -16,6 +16,13 @@ p
   text-align: center;
   font-family: Simplified;
 }
+p
+{
+  color: black;
+  text-align: left;
+  font-style: italic;
+  font-family: Simplified;
+}
 a
 {
   color: blue;
