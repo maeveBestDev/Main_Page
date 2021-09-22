@@ -22,16 +22,16 @@
 <p></p>
 
 <a href="https://maevebestdev.github.io/MesJeux/">
-<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266341175595018/jeuxImageSite.jpg?width=783&height=427" alt="perdu.cm" title="My videos games" style="width: 250px;" /> 
+<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266341175595018/jeuxImageSite.jpg?width=783&height=427" alt="perdu.cm" id="imgg" title="My videos games" style="width: 250px;" /> 
     <p>My videos games</p>
 </a>
 
       <a href="https://maevebestdev.github.io/MesBots/">
-<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266318383747153/botpoursiteimage.png" alt="perdu.cm" title="My bots" style="width: 250px;" /> 
+<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266318383747153/botpoursiteimage.png" alt="perdu.cm" id="imgg" title="My bots" style="width: 250px;" /> 
           <p>My bots</p>
           
       <a href="https://maevebestdev.github.io/MesSite/">
-<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266366744088586/siteImageSite.png?width=759&height=427" alt="perdu.cm" title="My websites" style="width: 250px;" /> 
+<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266366744088586/siteImageSite.png?width=759&height=427" alt="perdu.cm" id="imgg" title="My websites" style="width: 250px;" /> 
           <p>My websites</p>
 </a>
       <p></p>
