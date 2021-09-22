@@ -15,7 +15,7 @@
   </div>
 </form>
       
-    <h1>Wellcome !</h1>
+    <h1>Welcome !</h1>
     <p><strong>This site lists and presents all my projects such as bots, websites, applications or video games.</strong></p>
     <p></p>
  
