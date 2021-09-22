@@ -16,6 +16,7 @@
 </form>
       
     <h1>Welcome !</h1>
+    <p1>This website is still in build. Some features aren't implemented or working yet. Sorry for the desagrement.</p1>
     <p><strong>This site lists and presents all my projects such as bots, websites, applications or video games.</strong></p>
     <p></p>
  
