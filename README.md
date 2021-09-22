@@ -6,12 +6,18 @@
     <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889477592544071710/braquette.png?width=427&height=427">
     </head>
   <body>
+          <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Search the site..."
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Research</button>
+  </div>
+</form>
+      
     <h1>Wellcome !</h1>
     <p><strong>This site lists and presents all my projects such as bots, websites, applications or video games.</strong></p>
     <p></p>
-<form>
-
-</form>
  
 <p></p>
 
