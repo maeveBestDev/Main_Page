@@ -22,7 +22,9 @@ a
   text-align: center;
   font-family: Simplified;
 }
-
+.imgg{
+  text-align: center;
+}
 IMG.displayed {
     display: block;
     margin-left: auto;
