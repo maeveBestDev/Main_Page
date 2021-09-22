@@ -1,20 +1,25 @@
 
 function controle(){
 var saisie =document.getElementById("input").value;
-if (saisie == "anime"){
-  document.location.href="https://nsi-team.github.io/Anime/";
+if (saisie == "home"){
+  document.location.href="https://maevebestdev.github.io/Main_Page/";
   }
-if (saisie == "jeux vidéos"){
-    document.location.href="https://nsi-team.github.io/Jeux_Videos/";
+if (saisie == "videos games"){
+    document.location.href="https://maevebestdev.github.io/MesJeux/";
   }
-if(saisie == "pixel art"){
-  document.location.href="https://nsi-team.github.io/Pixel_Art/";
+if(saisie == "bot"){
+  document.location.href="https://maevebestdev.github.io/MesBots/";
 }
-if(saisie == "marrant"){
-  document.location.href="https://nsi-team.github.io/Marrant/";
+if(saisie == "website"){
+  document.location.href="https://maevebestdev.github.io/MesSite/";
 }
-if(saisie == "chat"){
-  document.location.href="https://nsi-team.github.io/Chat/";
+if(saisie == "about"){
+  document.location.href="https://maevebestdev.github.io/About_Us/";
 }
-
+if(saisie == "help"){
+  document.location.href="https://maevebestdev.github.io/Help/";
+}
+if(saisie == "contact"){
+  document.location.href="https://maevebestdev.github.io/Contact_Us/";
+}
 }
