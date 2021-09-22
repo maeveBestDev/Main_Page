@@ -1,4 +1,4 @@
-<html lang="fr">
+<html lang="en">
     <head> 
         <title>Maeve's site UwU/Home</title>
         <link rel="stylesheet" type="text/css" href="style.css">
