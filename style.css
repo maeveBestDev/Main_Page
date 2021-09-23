@@ -32,10 +32,10 @@ a
 .imgg{
   text-align: center;
 }
-IMG.displayed {
+img.displayed {
     display: block;
-    margin-left: auto;
-    margin-right: auto }
+    margin-left: center;
+    margin-right: center }
 
 .imageee {
 background-size: cover;
