@@ -29,13 +29,8 @@ a
   text-align: center;
   font-family: Simplified;
 }
-.imgg{
-  text-align: center;
-}
 img.displayed {
     display: block;
-    width: 50px;
-    height: 50px;
     margin-left: center;
     margin-right: center }
 
