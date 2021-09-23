@@ -23,7 +23,7 @@
 <p></p>
 
 <a href="https://maevebestdev.github.io/MesJeux/">
-<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266341175595018/jeuxImageSite.jpg?width=783&height=427" alt="perdu.cm" id="imgg" title="My videos games" style="width: 50px;" /> 
+<img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890266341175595018/jeuxImageSite.jpg?width=783&height=427" alt="perdu.cm" id="imgg" title="My videos games" style="width: 250px; height: 50px;" /> 
     <p>My videos games</p>
 </a>
 
